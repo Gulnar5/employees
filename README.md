@@ -22,6 +22,7 @@ Visualizations:
 
 Page 2: Yearly Data Analysis
 
+![Screenshot 2024-11-01 142157](https://github.com/user-attachments/assets/7a619c6b-826b-47ee-85d2-ebdd771db4cc)
 
 Visualizations:
 - Area Chart: Compares salary metrics such as Year-To-Date (YTD), Month-To-Date (MTD), and Quarter-To-Date (QTD) against the same period last year.
