@@ -8,6 +8,8 @@ Navigator: Easy navigation to different sections of the dashboard.
 
 Page 1: Salary Information
 
+![Screenshot 2024-11-01 142146](https://github.com/user-attachments/assets/6d717fdb-63ca-4035-ba54-815a3521b153)
+
 
 Visualizations:
 - Stack Bar Chart: Displays total salaries by department and position.
