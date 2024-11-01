@@ -30,6 +30,8 @@ Visualizations:
 
 
 Page 3: Employee Statistics
+
+![Screenshot 2024-11-01 142220](https://github.com/user-attachments/assets/0013a4a3-091f-4a5c-90c2-b4a4033313b0)
 Visualizations:
 - Bar Chart: Displays percentages of disabled and veteran employees by department.
 - Dynamic Cards: Show average salary and veteran status dynamically based on the selected employee.
