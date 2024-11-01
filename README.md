@@ -1,8 +1,11 @@
 "# employees" 
 This Power BI dashboard presents a comprehensive analysis of employee data across eight distinct tables, encompassing personal details, salary information, departments, positions, and employment metrics. The dashboard consists of four main pages, each designed to provide insights and facilitate navigation.
 
-Navigator: Easy navigation to different sections of the dashboard.
 Dashboard Structure
+Navigator: Easy navigation to different sections of the dashboard.
+
+![Screenshot 2024-11-01 142132](https://github.com/user-attachments/assets/3c28e515-b70a-4943-b8c7-157f06ba8a04)
+
 Page 1: Salary Information
 
 
